@@ -1,5 +1,4 @@
 {
-    "url_comercio_service_t":"http://localhost:8080/comercio_service/public/api/setPassword",
     "url_comerciantes":"https://www.comerciantes.salamank.com",
     "url_comercio_service":"https://www.cs.salamank.com/api/setPassword"
 }

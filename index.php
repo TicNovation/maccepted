@@ -107,7 +107,7 @@
             var jwt = "<?php echo $jwt ?>"
 
             if(bool == true){
-                var url = "<?php echo $config['url_comercio_service_t'] ?>";
+                var url = "<?php echo $config['url_comercio_service'] ?>";
                 var redirect = "<?php echo $config['url_comerciantes'] ?>";
                 var password = $("#password").val();
                 let json = {
